@@ -1,0 +1,10 @@
+{
+  "name": "core",
+  "version": "0.1.0",
+  "private": true,
+  "main": "src/",
+  "types": "src/",
+  "dependencies": {
+    "assets": "0.0.1"
+  }
+}
